@@ -1,4 +1,7 @@
-hi
+
 welcome
+<<<<<<< HEAD
 good morning
 good day
+=======
+>>>>>>> parent of c315bea (commit)
